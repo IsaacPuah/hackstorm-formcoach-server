@@ -1,0 +1,12 @@
+# Model and data files (too large / too personal for git)
+*.pkl
+*.csv
+*.mp4
+*.mov
+*.task
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
